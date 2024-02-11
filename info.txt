@@ -22,3 +22,13 @@ npm i zod
 ESLINT
 
 npm i eslint @rocketseat/eslint-config - D
+
+Fundamentos do PRISMA ORM
+
+npm i prisma -D
+
+npx prisma init
+
+npx prisma generate
+
+
