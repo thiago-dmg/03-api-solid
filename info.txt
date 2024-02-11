@@ -1,0 +1,24 @@
+#App
+
+GymPass Style app.
+
+npm init -y
+
+npm i typescript @types/node tsx tsup -D
+
+TSX => converte o código TS para JS, pois o node não entende TS (Somente em ambiente de DEV)
+TSUP => Realiza o Build da aplicação
+
+npx tsc --init (Cria o TSCONFIG)
+
+npm i fastify
+
+Variaveis de ambiente
+
+npm i dotenv
+
+npm i zod
+
+ESLINT
+
+npm i eslint @rocketseat/eslint-config - D
