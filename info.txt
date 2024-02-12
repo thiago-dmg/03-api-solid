@@ -31,4 +31,43 @@ npx prisma init
 
 npx prisma generate
 
+npm i @prisma/client
+
+Fundamentos do DOCKER
+
+wsl --update
+
+https://hub.docker.com/search?q=
+
+Criação do container
+
+docker run --name api-solid-pg -e POSTGRESQL_USERNAME=docker -e POSTGRESQL_PASSWORD=docker -e POSTGRESQL_DATABASE=apisolid -p 5432:5432 bitnami/postgresql
+
+docker ps (Retorna os containers)
+
+docker start 0867dcd27755
+
+docker stop 0867dcd27755
+
+docker rm 0867dcd27755
+
+docker logs 0867dcd27755
+
+
+Testar se está ok => npx prisma migrate dev
+
+Interface Prisma = npx prisma studio
+
+
+Docker Compose
+
+Arquivo que dita todos os containers 
+
+docker compose up -d (-d não mostra o log dos containers)
+
+docker compose stop (Para todos containers)
+
+docker compose down (Deleta todos containers)
+
+Observação: Quando deletamos a imagem, precisamos rodar o comando: npx prisma migrate dev
 
