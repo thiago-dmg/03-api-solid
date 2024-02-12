@@ -86,6 +86,11 @@ npm i -D @types/bcryptjs
 
 Repository Pattern
 
+SOLID
+
+D - Dependency Inversion Principle
+
+
 
 
 
