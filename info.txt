@@ -79,6 +79,11 @@ Relacionamento entre tabelas
 1-n Uma informação que está em uma tabela pode estar relacionado com varios registros
 n-n Tenho um registro que esta relacionado em outra e esse mesmo pode estar relacionado a outros
 
+Casos de Uso
+
+npm i bcryptjs 
+npm i -D @types/bcryptjs
+
 
 
 

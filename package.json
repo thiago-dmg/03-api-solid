@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/thiago-dmg/03-api-solid#readme",
   "devDependencies": {
+    "@types/bcryptjs": "2.4.6",
     "@types/node": "20.11.17",
     "prisma": "5.9.1",
     "tsup": "8.0.2",
@@ -30,6 +31,7 @@
     "-": "0.0.1",
     "@prisma/client": "5.9.1",
     "@rocketseat/eslint-config": "2.2.2",
+    "bcryptjs": "2.4.3",
     "D": "1.0.0",
     "dotenv": "16.4.2",
     "eslint": "8.56.0",
