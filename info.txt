@@ -84,6 +84,8 @@ Casos de Uso
 npm i bcryptjs 
 npm i -D @types/bcryptjs
 
+Repository Pattern
+
 
 
 
