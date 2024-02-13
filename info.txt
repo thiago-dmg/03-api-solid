@@ -90,6 +90,13 @@ SOLID
 
 D - Dependency Inversion Principle
 
+Testes
+
+npm i vitest vite-tsconfig-paths - D 
+
+Criação do arquivo vite.config.ts
+
+
 
 
 
