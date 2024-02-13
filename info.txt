@@ -96,6 +96,33 @@ npm i vitest vite-tsconfig-paths - D
 
 Criação do arquivo vite.config.ts
 
+Vitest UI
+
+npm i -D @vitest/ui
+
+
+Casos de uso (autenticação)
+
+authenticate.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
