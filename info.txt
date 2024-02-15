@@ -107,13 +107,21 @@ authenticate.ts
 
 Factory Pattern => Instancia as classes e requisitos que tem muitas dependências
 
+TDD => Desenvolvimento dirigido a testes
+
+Red - erro no teste
+green - faço funcionar
+refactor - refatoro
+
+Datas
+
+npm i dayjs
 
 
 
+Pegar outra coisa que não seja catalogo
 
-
-
-
+se pegar, TL Layo aprova
 
 
 
