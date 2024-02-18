@@ -117,11 +117,17 @@ Datas
 
 npm i dayjs
 
+Basic Auth JWT
+
+Jason Web Tokens
+
+Usuario faz login, envia e-mail/senha, o back-end cria um token ÚNICO, não modificável e STATELESS.
+
+Stateless: Não armazenado em nenhuma estrutura de persistência de dados
+
+npm i @fastify/jwt
 
 
-Pegar outra coisa que não seja catalogo
-
-se pegar, TL Layo aprova
 
 
 
