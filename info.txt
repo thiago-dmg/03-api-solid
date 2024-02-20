@@ -134,7 +134,14 @@ npm link
 
 $ npm link vitest-environment-prisma
 
+npm install -D npm-run-all
 
+
+Teste E2E Registro
+
+npm i supertest - D
+
+npm i @types/supertest -D
 
 
 
