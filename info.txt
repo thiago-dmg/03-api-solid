@@ -144,7 +144,17 @@ npm i supertest - D
 npm i @types/supertest -D
 
 
+Refresk Token
 
+npm i @fastify/cookie
+
+CI
+
+Continuos Integration
+
+CD
+
+Continuos Deployment/Delivery
 
 
 
